@@ -1,0 +1,10 @@
+基础任务：vue的入门
+  视频：http://yun.itheima.com/course/609.html?bili
+  1.了解vue的语法
+  2.了解vue的指令，其中包括<v-text> <v-html> <v-on> <v-show> <v-if> <v-bind> <v-for>  <v-model>
+  （我在OneNote上已经写了基本内容及样例，可以自己去看）
+  3.实践五个demo，样例和最后的源码都已经给了，跟着视频手写一遍，更好的入门vue
+提高任务：vue项目的创建与实践
+  1.根据vue项目搭建教程把vue项目搭建起来
+  2.了解vue的组件
+  3.自己尝试相关代码
